@@ -1,0 +1,1 @@
+We made a HashGenerator tool using hashlib Library in Python language I'll prefer to use Visual.tk to make the Design of Tool!
